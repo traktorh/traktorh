@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A5F3FC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%90%A7+I'm+Limbern;Cold+Code.+Warm+Logic.;Absolute+Zero+Bugs.+%E2%9D%84%FE%8F%8F" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1000&color=88C0D0&left=true&vleft=true&width=500&lines=Frontend+%26+Backend+Developer;Building+System+Modules;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1000&color=88C0D0&left=true&vleft=true&width=400&lines=Frontend+%26+Backend+Developer;Building+System+Modules;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG 2" />
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </video>
 </div>
 
-- 🌱 I'm currently learning **MySQL PHP**
+- 🌱 I'm currently learning **MySQL and another languages**
 
 - ⚡ Fun fact **Winter isn't a season for me, it's a lifestyle.🧊**
 
