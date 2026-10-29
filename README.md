@@ -13,9 +13,14 @@
   <img src="https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png" width="48" height="48" alt="Language Icon" />
 </div>
 
-<b><h2 align="center">♨Devs: </h2></b>
+<h2 align="center">♨Devs: </h2>
 <div align="center">
   <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="48" height="48" alt="VS Code" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png" width="48" height="48" alt="PyCharm" />
 </div>
 
+<h2 align="center">⚖Fronted: </h2>
+<div align="center">
+  <img src="[https://code.visualstudio.com/assets/branding/code-stable.png](https://store-images.s-microsoft.com/image/apps.3716.6dc8520a-2d39-4255-9ae7-097b286560fb.ac0a4363-de78-41f3-8632-e32cfa6e7121.3edeb639-5830-4dad-856c-6fe9f95b0852)" width="48" height="48" alt="VS Code" />
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png](https://w7.pngwing.com/pngs/299/686/png-transparent-cascading-style-sheets-responsive-web-design-web-development-web-design-blue-angle-web-design.png)" width="48" height="48" alt="PyCharm" />
+</div>
