@@ -1,7 +1,7 @@
 # Hi 👋, I'm ❄️Limbern🥶❄️
 
 <div align="center">
-  <img src="[https://68.media.tumblr.com/ec223c515f5f640d86e37a2e6fe0d8a1/tumblr_o61j39OTFl1ujp8qzo1_500.gif)] " width="220" style="border-radius: 12px;" alt="Bear GIF" />
+  <img src="[[https://68.media.tumblr.com/ec223c515f5f640d86e37a2e6fe0d8a1/tumblr_o61j39OTFl1ujp8qzo1_500.gif)] ](https://th.bing.com/th/id/R.b674fa0f566a1f14553a14ca5f54b861?rik=3Mex60nDBuPduQ&riu=http%3a%2f%2f24.media.tumblr.com%2fc47478175eb3350069eb6cbfe9d06406%2ftumblr_mh78vqQXfC1rwjzpqo1_500.gif&ehk=Ep4CRWDUBQ4uCLs7kXaztsKYIr3bPJLf9cRo3bWmGM8%3d&risl=&pid=ImgRaw&r=0)" width="220" style="border-radius: 12px;" alt="Bear GIF" />
 </div>
 
 - 🌱 I'm currently learning **MySQL PHP**
