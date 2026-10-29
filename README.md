@@ -27,6 +27,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <img src="https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png" width="48" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 </div>
 
 <h2 align="center">♨Devs: </h2>
