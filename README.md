@@ -13,14 +13,7 @@
   <img src="https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png" width="48" height="48" alt="Language Icon" />
 </div>
 
-<h2 align="center">♨Devs: </h2>
-<div align="center">
-  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="48" height="48" alt="VS Code" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png" width="48" height="48" alt="PyCharm" />
-</div>
-
 <h2 align="center">⚖Fronted: </h2>
-<div align="center">
 <div align="center">
   <!-- HTML5 -->
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -29,4 +22,18 @@
   <!-- JavaScript -->
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 </div>
+
+<h2 align="center">☏Backend: </h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+  <img src="https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png" width="48" height="48" alt="MySQL" />
 </div>
+
+<h2 align="center">♨Devs: </h2>
+<div align="center">
+  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="48" height="48" alt="VS Code" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png" width="48" height="48" alt="PyCharm" />
+</div>
+
+
+
