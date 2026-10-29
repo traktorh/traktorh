@@ -10,6 +10,11 @@
 
   <p><b>Full-Stack Explorer & System Customizer 🧊</b></p>
 
+  <!-- Анимированная гифка с медведем -->
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bTcxZ2s2YXBsY2dybWhreTFpOGk3NngyYXZ4aGNsdG1wczRyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IthbeOVg63I54PO93s/giphy.gif" width="220px" style="border-radius: 10px;" alt="Bear GIF" />
+  <br/><br/>
+
   <!-- Статус и счетчик просмотров -->
   <p>
     <img src="https://img.shields.io/badge/Status-Coding%20in%20the%20Cold-00b4d8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Status" />
@@ -24,7 +29,6 @@
 </div>
 
 <br/>
-
 <!-- Неоновый анимированный разделитель -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a547-11eb-852a-1815bed380f3.gif" width="100%" />
 
