@@ -1,6 +1,6 @@
 # Hi 👋, I'm ❄️Limbern🥶❄️
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=traktorh](https://img.particlenews.com/image.php?type=thumbnail_580x000&url=05kMkk_1AFRi0JR00)" alt="traktorh" /></a> </p>
+<p align="left"> <a <img src="[https://github-profile-trophy.vercel.app/?username=traktorh](https://img.particlenews.com/image.php?type=thumbnail_580x000&url=05kMkk_1AFRi0JR00)](https://img.particlenews.com/image.php?type=thumbnail_580x000&url=05kMkk_1AFRi0JR00)" alt="traktorh" /></a> </p>
 
 - 🌱 I'm currently learning **MySQL PHP**
 
