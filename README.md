@@ -8,11 +8,10 @@
 
 - ⚡ Fun fact **Winter isn't a season for me, it's a lifestyle.🧊**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/traktorh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="traktorh" height="30" width="40" /></a>
-</p>
+<h3 align="left">My Faworite Languages: </h3>
+<div align="center">
+  <img src="[ССЫЛКА_НА_ЗНАЧОК.png](https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png)" width="48" height="48" alt="Language Icon" />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="[https://developer.mozilla.org/en-US/docs/Web/css3](https://webdiz.com.ua/wp-content/uploads/2017/10/javascript.png)" target="_blank" rel="noreferrer"> <img src="[https://skillicons.dev/icons?i=css](https://th.bing.com/th/id/R.0a647fc5050bad726b04da3b43811462?rik=Sl9KcbLOUQolWQ&pid=ImgRaw&r=0)" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a></p>
 
