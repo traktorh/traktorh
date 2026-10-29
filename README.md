@@ -8,9 +8,9 @@
 
 - ⚡ Fun fact **Winter isn't a season for me, it's a lifestyle.🧊**
 
-<h3 align="left">My Faworite Languages: </h3>
+<h3 align="left">My Favorite Languages:</h3>
 <div align="center">
-  <img src="(https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png)" width="48" height="48" alt="Language Icon" />
+  <img src="https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png" width="48" height="48" alt="Language Icon" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
