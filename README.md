@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A5F3FC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%90%A7+I'm+Limbern;Cold+Code.+Warm+Logic.;Absolute+Zero+Bugs.+%E2%9D%84%FE%8F%8F" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bTcxZ2s2YXBsY2dybWhreTFpOGk3NngyYXZ4aGNsdG1wczRyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IthbeOVg63I54PO93s/giphy.gif" width="220" style="border-radius: 12px;" alt="Bear GIF" />
+  <img src="tumblr_o61j39OTFl1ujp8qzo1_500.gif" width="220" style="border-radius: 12px;" alt="Bear GIF" />
 </div>
 
 - 🌱 I'm currently learning **MySQL PHP**
