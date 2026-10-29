@@ -36,7 +36,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png" width="48" height="48" alt="PyCharm" />
 </div>
 
-<h2 align="center">⛏︎Languages, tools that i use/wont to lern: </h2>
+<h2 align="center">⛏︎Languages, tools that i use/want to lern: </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <img src="https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png" width="48" height="48" alt="MySQL" />
@@ -45,7 +45,7 @@
   <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="48" height="48" alt="VS Code" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png" width="48" height="48" alt="PyCharm" />
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <img src="https://e7.pngegg.com/pngimages/857/885/png-clipart-python-javascript-logo-soloist-blue-angle.png<img" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <img src="https://logos-world.net/wp-content/uploads/2025/07/Git-Symbol-500x281.png" width="48" height="48" alt="Git" />
 </div>
 
