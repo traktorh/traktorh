@@ -1,7 +1,8 @@
 # Hi 👋, I'm ❄️Limbern🥶❄️
 
-<p align="left"> <a <img src="[https://github-profile-trophy.vercel.app/?username=traktorh](https://img.particlenews.com/image.php?type=thumbnail_580x000&url=05kMkk_1AFRi0JR00)](https://img.particlenews.com/image.php?type=thumbnail_580x000&url=05kMkk_1AFRi0JR00)" alt="traktorh" /></a> </p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bTcxZ2s2YXBsY2dybWhreTFpOGk3NngyYXZ4aGNsdG1wczRyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IthbeOVg63I54PO93s/giphy.gif" width="220px" style="border-radius: 12px;" alt="Bear GIF" />
+</div>
 - 🌱 I'm currently learning **MySQL PHP**
 
 - ⚡ Fun fact **Winter isn't a season for me, it's a lifestyle.🧊**
