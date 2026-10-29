@@ -8,12 +8,12 @@
 
 - ⚡ Fun fact **Winter isn't a season for me, it's a lifestyle.🧊**
 
-<h3 align="left">My Favorite Languages:</h3>
+<h3 align="left">☃☃My Favorite Languages: ☟</h3>
 <div align="center">
   <img src="https://i.pinimg.com/originals/b8/49/98/b84998c3873218ccad17a3dce959ae39.png" width="48" height="48" alt="Language Icon" />
 </div>
 
-<h3 align="left">Dev: </h3>
+<h3 align="center">♨Devs: </h3>
 <div align="center">
   <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="48" height="48" alt="VS Code" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png" width="48" height="48" alt="PyCharm" />
