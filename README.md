@@ -63,25 +63,6 @@
 
 </div>
 
-<br/>
-
-### 🧊 // CONNECT
-
-<div align="left">
-
-  <!-- Ссылки для связи / профиля -->
-  <a href="https://github.com/traktorh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="GitHub" />
-  </a>
-  <!-- Пример добавления второй ссылки, если потребуется (например, Telegram или почта):
-  <a href="https://t.me/твой_ник" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  -->
-
-</div>
-
-<br/>
 
 <!-- Декоративная подвальная волна -->
 <div align="center">
