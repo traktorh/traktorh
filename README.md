@@ -21,6 +21,12 @@
 
 <h2 align="center">⚖Fronted: </h2>
 <div align="center">
-  <img src="[https://code.visualstudio.com/assets/branding/code-stable.png](https://store-images.s-microsoft.com/image/apps.3716.6dc8520a-2d39-4255-9ae7-097b286560fb.ac0a4363-de78-41f3-8632-e32cfa6e7121.3edeb639-5830-4dad-856c-6fe9f95b0852)" width="48" height="48" alt="VS Code" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png](https://w7.pngwing.com/pngs/299/686/png-transparent-cascading-style-sheets-responsive-web-design-web-development-web-design-blue-angle-web-design.png)" width="48" height="48" alt="PyCharm" />
+<div align="center">
+  <!-- HTML5 -->
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+</div>
 </div>
