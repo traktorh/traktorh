@@ -50,21 +50,7 @@
 
 <!-- Неоновый анимированный разделитель -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a547-11eb-852a-1815bed380f3.gif" width="100%" />
-
-### 📊 // FROST_STATISTICS
-
-<div align="center">
-
-  <br/>
-
-  <!-- Карточки статистики -->
-  <img src="https://github-readme-stats.vercel.app/api?username=traktorh&show_icons=true&theme=nord&hide_border=true&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&bg_color=2e3440" height="165" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traktorh&layout=compact&theme=nord&hide_border=true&title_color=88c0d0&text_color=d8dee9&bg_color=2e3440" height="165" alt="Top Languages" />
-
-</div>
-
-
-<!-- Декоративная подвальная волна -->
+- Декоративная подвальная волна -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" />
 </div>
