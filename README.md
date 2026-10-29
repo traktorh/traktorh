@@ -2,7 +2,7 @@
 
 <div align="center">
 <video width="220" style="border-radius: 12px;" autoplay loop muted playsinline>
-    <source src="https://github.com/traktorh/traktorh/blob/main/tumblr_o61j39OTFl1ujp8qzo1_500.gif?raw=true" type="video/mp4">
+    <source src="https://github.com/traktorh/traktorh/blob/main/tumblr_o61j39OTFl1ujp8qzo1_500.gif?raw=true" type="video/gif">
 </video>
 </div>
 
