@@ -1,5 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A5F3FC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%90%A7+I'm+Limbern;Cold+Code.+Warm+Logic.;Absolute+Zero+Bugs.+%E2%9D%84%FE%8F%8F" alt="Typing SVG" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=88C0D0&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Developer;Building+System+Modules;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG 2" />
+</p>
+
 <div align="center">
 <video width="220" style="border-radius: 12px;" autoplay loop muted playsinline>
     <source src="https://github.com/traktorh/traktorh/blob/main/tumblr_o61j39OTFl1ujp8qzo1_500.gif?raw=true" type="video/gif">
