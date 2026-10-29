@@ -1,55 +1,85 @@
 <div align="center">
 
-  <!-- Ледяной анимированный баннер / гифка -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwMnc3ZndzazVrbmZhbTJ2cXN4cnRrb2szdHRsa3J3d2p1ZnpzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" alt="Ice Theme Banner" />
+  <!-- Анимированный баннер с падающим снегом -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnEwMnc3ZndzazVrbmZhbTJ2cXN4cnRrb2szdHRsa3J3d2p1ZnpzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 12px;" alt="Winter Theme Banner" />
 
   <br/><br/>
 
-  <h1>Hi 👋, I'm ❄️ Limbern 🥶❄️</h1>
-  <p><i>Cold logic, clean code & absolute zero bugs 🧊</i></p>
+  <!-- Ледяной анимированный заголовок -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A5F3FC&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%90%A7+I'm+Limbern;Cold+Code.+Warm+Logic.;Absolute+Zero+Bugs.+%E2%9D%84%FE%8F%8F" alt="Typing SVG" />
 
-  <!-- Блок трофеев (trophies) -->
+  <p><b>Full-Stack Explorer & System Customizer 🧊</b></p>
+
+  <!-- Счётчик просмотров в ледяной теме -->
+  <img src="https://komarev.com/ghpvc/?username=traktorh&label=FROST%20VIEWS&color=00b4d8&style=for-the-badge" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- Трофеи в стиле 'onedark' (сине-стальной оттенок) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=traktorh&theme=onedark&column=6&margin-w=15" alt="traktorh trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=traktorh&theme=onedark&column=6&margin-w=15" alt="Trophies" />
   </a>
 
 </div>
 
----
+<br/>
 
-### 🧊 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a547-11eb-852a-1815bed380f3.gif" width="100%" />
 
-- 🔭 **Currently working on:** Project **Koala-V**
-- 🌱 **Learning:** `HTML5`, `CSS3`, `JavaScript`, `PHP` & `MySQL`
-- ⚡ **Fun fact:** *Winter isn't a season for me, it's a lifestyle.* 🧊
-- 💬 **Ask me about:** Web Development & OS Tweaks
+### ❄️ // SYSTEM_PROFILE
 
----
+* 🔭 **Active Project:** `Koala-V` — *freezing bugs in their tracks*
+* 🌱 **Current Tech Stack:** `HTML5` | `CSS3` | `JavaScript` | `PHP` | `MySQL`
+* ⚡ **Fun Fact:** *Winter isn't a season for me, it's a lifestyle.* 🧊
+* 💬 **Ask Me About:** Web Development, OS Optimization & Cyber Security
 
-### 💻 Languages & Tools
+<br/>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,vscode&theme=dark" alt="My Tech Stack" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 🛠️ // TECH_FROST_STACK
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=traktorh&show_icons=true&theme=tokyonight&hide_border=true" alt="Limbern's Github Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traktorh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+
+  <!-- Анимированный стек иконок с подсветкой -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sqlite,git,vscode&theme=dark&perline=8" alt="Tech Stack" />
+  </a>
+
 </div>
 
----
+<br/>
 
-### 📫 Connect with me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a547-11eb-852a-1815bed380f3.gif" width="100%" />
 
-<p align="left">
-  <a href="https://github.com/traktorh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="traktorh" height="30" width="40" />
+### 📊 // FROST_STATISTICS
+
+<div align="center">
+
+  <br/>
+
+  <!-- Карточки статистики в теме 'nord' / 'tokyonight' (холодные синие цвета) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=traktorh&show_icons=true&theme=nord&hide_border=true&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&bg_color=2e3440" height="165" alt="Github Stats" />
   </a>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traktorh&layout=compact&theme=nord&hide_border=true&title_color=88c0d0&text_color=d8dee9&bg_color=2e3440" height="165" alt="Top Languages" />
+  </a>
+
+</div>
+
+<br/>
+
+### 🧊 // CONNECT
+
+<div align="left">
+
+  <a href="https://github.com/traktorh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=00f2fe" alt="GitHub" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" />
+</div>
